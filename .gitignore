@@ -24,6 +24,5 @@ yarn-error.log*
 
 .env.local
 source1.json
-/src/components/News.js
 /src/components/Newsitem.js
 /src/components/Spinner.js
