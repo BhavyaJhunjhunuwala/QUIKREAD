@@ -24,4 +24,4 @@ yarn-error.log*
 
 .env.local
 source1.json
-/src/components/Spinner.js
+
